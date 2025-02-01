@@ -23,7 +23,7 @@ axios.get('https://raw.githubusercontent.com/rynxzyy/blue-archive-r-img/refs/hea
   .then(response => {
     const imageData = response.data;
     imageData.forEach(item => {
-      console.log("URL:", item.url);
+      console.log("URL:", item);
     });
   })
   .catch(error => {
