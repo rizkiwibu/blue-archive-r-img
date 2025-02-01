@@ -36,7 +36,6 @@ axios.get('https://raw.githubusercontent.com/rynxzyy/blue-archive-r-img/refs/hea
 Feel free to contribute! The more images, the merrier. Please make sure the images are:
 
 *   From Blue Archive.
-*   Safe for work (SFW).
 *   Decent quality.
 
 ## License
