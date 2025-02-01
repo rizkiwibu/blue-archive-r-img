@@ -35,9 +35,9 @@ axios.get('https://raw.githubusercontent.com/rynxzyy/blue-archive-r-img/refs/hea
 
 Feel free to contribute! The more images, the merrier. Please make sure the images are:
 
-*   From Blue Archive.
-*   Decent quality.
+*  Related to Blue Archive (official art or fan art).
+*  Decent quality. (Images should be clear and not blurry or pixelated.)
 
 ## License
 
-All images belong to their respective creators and publishers (Nexon, Yostar, etc.). This repository is just for non-commercial fun.
+All images belong to their respective creators and publishers. This repository is just for non-commercial fun.
