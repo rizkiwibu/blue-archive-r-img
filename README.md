@@ -8,10 +8,12 @@ Because sometimes you just want to look at cute pictures from [Blue Archive](htt
 
 ## How to use?
 
-1.  **View images:** The images are listed in the `links.json` file.
+1.  **View images:** Browse the [`images`](./images) folder to see all the images directly.
 2.  **Access images with code:** You can fetch the images using the `links.json` file (see JavaScript example below).
-3.  **Add images:** Add image links and their source information to `links.json` and make a pull request (see [Contributing])!
-
+3.  **Add images:**
+    *   Upload your images to the `images` folder.
+    *   Update `links.json` with image information (URL, source, etc.).
+    *   Make a pull request (see [Contributing])!
 ## Using `links.json` (JavaScript Example)
 
 ```javascript
